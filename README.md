@@ -1,0 +1,1 @@
+# smartbap-privacy-policy
