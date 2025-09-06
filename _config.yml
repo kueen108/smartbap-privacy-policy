@@ -1,0 +1,8 @@
+title: 스마트밥 개인정보 처리방침
+description: SmartBap Privacy Policy
+theme: minima
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
